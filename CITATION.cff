@@ -9,8 +9,8 @@ authors:
 version: "1.0.0"
 date-released: "2025-10-17"
 doi: "10.5281/zenodo.DOI_PLACEHOLDER"
-url: "https://github.com/<your-username>/xor-xnor-sca-simulation"
-repository-code: "https://github.com/<your-username>/xor-xnor-sca-simulation"
+url: "https://github.com/kriptarium/xor-xnor-sca-simulation"
+repository-code: "https://github.com/kriptarium/xor-xnor-sca-simulation"
 license: "MIT"
 type: "software"
 keywords:
