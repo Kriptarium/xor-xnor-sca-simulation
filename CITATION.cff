@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "xor-xnor-sca-simulation: Profiling-Based Side-Channel Framework for XOR/XNOR Asymmetry Analysis"
+authors:
+  - family-names: "Özkaynak"
+    given-names: "Fatih"
+    affiliation: "Fırat University, Department of Software Engineering"
+    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"
+version: "1.0.0"
+date-released: "2025-10-17"
+doi: "10.5281/zenodo.DOI_PLACEHOLDER"
+url: "https://github.com/<your-username>/xor-xnor-sca-simulation"
+repository-code: "https://github.com/<your-username>/xor-xnor-sca-simulation"
+license: "MIT"
+type: "software"
+keywords:
+  - chaos-based cryptography
+  - side-channel analysis
+  - XOR/XNOR asymmetry
+  - power leakage modeling
+  - profiling attack simulation
+abstract: >
+  This repository provides the reproducible code for the study 
+  'When Chaos Isn’t Secure: Revealing Hidden Vulnerabilities in Chaotic Cryptography.'
+  The framework models dynamic power behavior of XOR/XNOR gates and demonstrates 
+  profiling-based side-channel leakage in chaotic image encryption systems.
